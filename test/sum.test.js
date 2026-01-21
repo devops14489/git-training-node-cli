@@ -3,5 +3,5 @@ const assert = require("node:assert");
 const { sum } = require("../src/lib/sum");
 
 test("sum adds two numbers", () => {
-  assert.strictEqual(sum(2, 3), 5);
+  assert.strictEqual(sum(4, 3), 7);
 });
