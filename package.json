@@ -5,6 +5,8 @@
   "type": "commonjs",
   "scripts": {
     "start": "node src/index.js",
-    "hello": "node src/index.js Dev"
+    "hello": "node src/index.js Dev",
+    "test": "node --test"
   }
+  
 }
